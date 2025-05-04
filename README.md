@@ -63,3 +63,8 @@ Use Code cells when you want to write and modify code. The default cell displaye
 
 ![image](https://github.com/user-attachments/assets/52bb033d-c1b6-45a3-800b-ead0cdc5a824)
 
+
+
+# Practice Exercises
+
+![image](https://github.com/user-attachments/assets/9d93d673-5a20-4309-b684-98543b2e9541)
