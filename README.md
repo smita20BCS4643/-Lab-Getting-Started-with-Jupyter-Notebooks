@@ -51,4 +51,15 @@ Use Code cells when you want to write and modify code. The default cell displaye
 # This is an example of a code cell
 ```
 
+![image](https://github.com/user-attachments/assets/3f6eda15-467d-44f7-9016-79f133bd0bf0)
+
+![image](https://github.com/user-attachments/assets/45c6d03c-1b0b-464e-ba58-99e3c8da8c24)
+
+![image](https://github.com/user-attachments/assets/4eb94002-c36a-4e1b-baee-d33397821ab1)
+
+![image](https://github.com/user-attachments/assets/ff9d3115-d071-42e8-bad4-e1dcb4d2110b)
+
+![image](https://github.com/user-attachments/assets/5415efba-caf6-4ed1-8a84-472020547dbe)
+
+![image](https://github.com/user-attachments/assets/52bb033d-c1b6-45a3-800b-ead0cdc5a824)
 
